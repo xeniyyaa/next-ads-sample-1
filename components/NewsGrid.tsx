@@ -15,7 +15,7 @@ export function NewsGrid() {
 
           {/* Ad Zone after 3rd card */}
           <div className="flex items-center justify-center">
-            <AdZone width={300} height={250} zoneClass="next-ads-zone-3" id="ad-zone-grid-1" />
+            <AdZone width={300} height={250} zoneClass="next-ads-zone-8" id="ad-zone-grid-8" />
           </div>
 
           {newsList.slice(3, 6).map((news) => (
