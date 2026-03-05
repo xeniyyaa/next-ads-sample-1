@@ -2,6 +2,6 @@
 2:I[32268,["/next-ads-sample-1/_next/static/chunks/09c0748900bbfb15.js","/next-ads-sample-1/_next/static/chunks/f1d7fd3880b8b209.js"],"ViewportBoundary"]
 4:I[32268,["/next-ads-sample-1/_next/static/chunks/09c0748900bbfb15.js","/next-ads-sample-1/_next/static/chunks/f1d7fd3880b8b209.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"jWnx4EzT8I1FP4owLO5-H","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
+0:{"buildId":"6P7Wmd9YPebUgUFk9SonO","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Новостной портал - Главные новости дня"}],["$","meta","1",{"name":"description","content":"Актуальные новости из мира политики, технологий, спорта и культуры"}]]
